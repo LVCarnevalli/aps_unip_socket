@@ -1,0 +1,4 @@
+Executar cmd.exe
+Comando(Exemplo): java -jar servidor.jar C:\Users\lucas\Documents\ 222
+
+Obs.: Liberar porta no firewall.
